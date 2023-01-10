@@ -5,7 +5,10 @@
 
 
 ## 참고 사이트 및 소스
-https://github.com/NourozR/Stock-Price-Prediction-LSTM
+원본소스: https://github.com/NourozR/Stock-Price-Prediction-LSTM
+Dataset: https://www.kaggle.com/datasets/artemburenok/sp-500-stock-prices
+시계열 예측: https://www.tensorflow.org/tutorials/structured_data/time_series?hl=ko
+Github에서 데이터 가져오기: https://thebook.io/080244/part04/unit17/02/
 
 ## 진행 중인 기존 소스와 차별점
 1. 기존의 선형 회귀를 로지스틱스 회귀로 변경
